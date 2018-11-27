@@ -10,5 +10,6 @@ public class Aufgabe4_1810653904 {
             zahl++;
         }
         while (zahl<11);
+        //Während zahl kleiner als 11 sobald nicht mehr => abbruch
     }
 }
